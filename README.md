@@ -47,3 +47,56 @@ so just select the compiled you want debug or release i.e:
 </p>
 
 - `dotnet ConsoleApp/bin/[debug]||[release]/net7.0/ConsoleApp.dll`
+
+
+## Let's use the implicity imports
+
+```csharp
+// Using the System import
+string message = "Let's do it!";
+
+Console.WriteLine(message);
+```
+
+```csharp
+// Using the System.IO
+string path = "creating_file.txt";
+
+string content_text = $"""
+some important thing here? Want to continue {message}
+""";
+
+File.WriteAllText(path, content_text);
+
+string read_content = File.ReadAllText(path);
+
+Console.WriteLine(read_content);
+```
+
+```csharp
+//using the System.Collections.Generic
+
+List<string> important_list = new List<string>(){
+    "company1",
+    "company2",
+};
+
+foreach(string item in important_list){
+    Console.WriteLine(item);
+}
+```
+
+```csharp
+//using the System.Net.Http
+// cmd: `dotnet add package Newtonsoft.Json`
+//PackageReference do pacote 'Newtonsoft.Json' versão '13.0.3'
+using (HttpClient web_client = new HttpClient()){
+    string url = "https://gorest.co.in/public/v2/users";
+    HttpResponseMessage res = await web_client.GetAsync(url);
+
+    if(res.IsSuccessStatusCode){
+        string data = await res.Content.ReadAsStringAsync();
+        Console.WriteLine(data);
+    }
+}
+```

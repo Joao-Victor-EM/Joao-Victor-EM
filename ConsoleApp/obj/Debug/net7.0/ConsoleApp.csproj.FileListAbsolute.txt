@@ -13,3 +13,5 @@ C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\ConsoleApp\obj\Debug\net7.0
 C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
 C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
+C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\ConsoleApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CopyComplete

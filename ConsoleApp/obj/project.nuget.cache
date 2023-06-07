@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DMLAP/VwdQlqlMboYBK/ae0NAVz1xTtNhbXPlfjvzPsdpzhhyOmeZ62UcrbgkiZjmcxAQ052LtxkcSznJPEFiQ==",
+  "dgSpecHash": "2OAVV29CiEDJnMCIQaLOyErnmtEKWBSaYp4TiQ3X0lnnrcJpr0No0rRb9ZYOIMNHC3IeEGCzWhYKm8n3Y0SzIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\ConsoleApp\\ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Escolar Manager\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
