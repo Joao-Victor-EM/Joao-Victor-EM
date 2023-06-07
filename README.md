@@ -103,7 +103,7 @@ using (HttpClient web_client = new HttpClient()){
 
 
 ```csharp
-// using the Thread
+// using the System.Thread
 
 static void Main(){
     Thread thread = new Thread(IE_Threading);
