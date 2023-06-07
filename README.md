@@ -63,12 +63,8 @@
   </tbody>
 </table>
 
+## Start from Basic C#
+### Switch branch to see the code
 
-<h2>Start from Basic C#<h2>
-<h3><u>Switch branch to see the code</u></h3>
-<ol>
-    <li>
-    [dotnet-apps-and-tools](../../tree/dotnet-apps-and-tools)
-    </li>
-    <li></li>
-</ol>
+1. [dotnet-apps-and-tools](../../tree/dotnet-apps-and-tools)
+2. [Another Branch](../../tree/another-branch)
