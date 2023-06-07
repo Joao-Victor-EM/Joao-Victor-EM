@@ -31,3 +31,10 @@ named <Main> $ are generated to contain the top-level statements.
 
     `<TargetFramework>net7.0;net5.0</TargetFramework>`
 
+# Building and Running the app
+
+- `dotnet build ConsoleApp`
+
+- `dotnet build --configuration Release`
+
+- `dotnet run --project ConsoleApp`
