@@ -11,21 +11,22 @@
     <li><i>dotnet add packages < package-name ></i></li>
 </ol>
 
-<h2>Namespaces of .NET</h2>
 <table>
-<caption>Official Namespaces</caption>
-<tbody>
+  <caption>Official Namespaces</caption>
+  <thead>
     <tr>
-    <col>
-        <td>System Collection</td>
-        <td>Collection data manipulation and storage.</td>
-    </col>
+      <th>Namespace</th>
+      <th>Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>System</td>
+      <td>Core functionality</td>
     </tr>
     <tr>
-    <col>
-        <td>System Collection</td>
-        <td>System Collection</td>
-    </col>
+      <td>System.Collections</td>
+      <td>Collection data manipulation and storage</td>
     </tr>
-</tbody>
+  </tbody>
 </table>
