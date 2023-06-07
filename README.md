@@ -13,12 +13,12 @@
 
 <h2>Namespaces of .NET</h2>
 <table>
-<th>Official Namespaces</th>
+<caption>Official Namespaces</caption>
 <tbody>
     <tr>
     <col>
         <td>System Collection</td>
-        <td>System Collection</td>
+        <td>Collection data manipulation and storage.</td>
     </col>
     </tr>
     <tr>
