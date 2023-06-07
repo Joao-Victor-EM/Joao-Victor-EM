@@ -100,3 +100,17 @@ using (HttpClient web_client = new HttpClient()){
     }
 }
 ```
+
+
+```csharp
+// using the Thread
+
+static void Main(){
+    Thread thread = new Thread(IE_Threading);
+    thread.Start();
+    Console.WriteLine("Main thread is executing...??");
+}
+static void IE_Threading(){
+        Console.WriteLine("childs threads is executing..");
+}
+```
