@@ -35,6 +35,15 @@ named <Main> $ are generated to contain the top-level statements.
 
 - `dotnet build ConsoleApp`
 
-- `dotnet build --configuration Release`
+- `dotnet build --project ConsoleApp --configuration Release`
 
 - `dotnet run --project ConsoleApp`
+
+- `dotnet run --project ConsoleApp ––framework net7.0`
+
+<p>On a production system  don’t use dotnet run; instead,
+you just use dotnet with the name of the library you've created
+so just select the compiled you want debug or release i.e:
+</p>
+
+- `dotnet ConsoleApp/bin/[debug]||[release]/net7.0/ConsoleApp.dll`
