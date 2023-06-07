@@ -4,7 +4,6 @@
 
 `dotnet new console --output ConsoleApp`
 
----
 <h2>Implicit using directives</h2>
 <p>The term implicit using directives means the compiler automatically</p>
 <p>adds a set of using directives based on the project type.</p>
