@@ -1,0 +1,51 @@
+{
+  "SerializedFilePath": "c:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\BlogSite\\obj\\Debug\\net4.6\\project.razor.json",
+  "FilePath": "c:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\BlogSite\\BlogSite.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "7.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "BlogSite",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\BlogSite\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\BlogSite\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\BlogSite\\Pages\\Grade.cshtml",
+      "TargetPath": "Pages\\Grade.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\BlogSite\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\BlogSite\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\BlogSite\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
