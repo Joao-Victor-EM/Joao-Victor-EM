@@ -1,0 +1,17 @@
+@page
+@model GradeModel
+<form method="post">
+    <label for="studentName">Student Name:</label>
+    <input type="text" id="studentName" name="StudentName" required>
+    <br>
+    <label for="mathematics">Mathematics:</label>
+    <input type="number" id="mathematics" name="Mathematics" required>
+    <br>
+    <label for="science">Science:</label>
+    <input type="number" id="science" name="Science" required>
+    <br>
+    <label for="history">History:</label>
+    <input type="number" id="history" name="History" required>
+    <br>
+    <button type="submit">Generate PDF</button>
+</form>
