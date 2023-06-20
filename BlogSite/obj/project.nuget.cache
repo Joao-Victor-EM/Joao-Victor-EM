@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xFgNjXTLh84O+LhBdpkm/5iNF9k4q7H9kSRqM/z9pygi5YXPvQX9mKpX/GHkNiW7sb6qxx1uT8/EEdbLmnklcA==",
+  "dgSpecHash": "zA7mEVc8TFh05nXk0AH8Nhu3+cWAjsxy7ytGlEhNIJbJR80MBYIBDmO6C3G59bVTZ4Q3904bIIcKXK2EAwfIzQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\BlogSite\\BlogSite.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Escolar Manager\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\Escolar Manager\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512"
+  ],
   "logs": []
 }

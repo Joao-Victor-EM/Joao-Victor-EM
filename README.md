@@ -15,3 +15,8 @@
 # Now just run
 
 - `dotnet run --project BlogSite`
+
+
+# To publish
+
+- `dotnet publish -f net7.0 -c Release`

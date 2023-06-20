@@ -29,3 +29,6 @@ C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\BlogSite\obj\Debug\net7.0\r
 C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\BlogSite\obj\Debug\net7.0\BlogSite.pdb
 C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\BlogSite\obj\Debug\net7.0\BlogSite.genruntimeconfig.cache
 C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\BlogSite\obj\Debug\net7.0\ref\BlogSite.dll
+C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\BlogSite\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\BlogSite\bin\Debug\net7.0\itextsharp.dll
+C:\Users\Escolar Manager\source\repos\Joao-Victor-EM\BlogSite\obj\Debug\net7.0\BlogSite.csproj.CopyComplete

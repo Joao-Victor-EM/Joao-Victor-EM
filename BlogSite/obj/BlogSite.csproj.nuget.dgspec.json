@@ -13,6 +13,7 @@
         "packagesPath": "C:\\Users\\Escolar Manager\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Escolar Manager\\source\\repos\\Joao-Victor-EM\\BlogSite\\obj\\",
         "projectStyle": "PackageReference",
+        "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
@@ -22,6 +23,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
+          "net4.6",
           "net7.0"
         ],
         "sources": {
@@ -33,6 +35,10 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
+            "projectReferences": {}
+          },
+          "net46": {
+            "targetAlias": "net4.6",
             "projectReferences": {}
           }
         },
@@ -65,6 +71,21 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        },
+        "net46": {
+          "targetAlias": "net4.6",
+          "dependencies": {
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }
