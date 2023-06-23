@@ -1,0 +1,38 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+Enum situation{
+  updated
+  rejected
+  revision
+  account_error
+  uninitialized
+  acknowledged
+  production
+  build
+  test
+  progress
+}
+
+Table client_version {
+  id integer [primary key]
+  updated_at timestamp [note: '2023-06-22T14:46:47.899Z']
+  domain varchar [note: 'comercialrep']
+  domain_id int [note: '']
+  domain_provider int [note: '']
+  domain_version float [note: '']
+  domain_team varchar [note: '']
+  gplay_status situation [note: '']
+  astore_status situation [note: '']
+  domain_name varchar [note: 'app name']
+  domain_bundle varchar [note: '']
+  status_details varchar [note: '']
+}
+
+Table client_android_version {
+  id integer [primary key]
+  domain_app_project_id varchar
+  shared_project_id varchar
+  domain_version float
+}
+
+Ref: client_version.domain < client_android_version.domain_app_project_id
