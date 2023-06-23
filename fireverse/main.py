@@ -1,3 +1,5 @@
+from fire_man import FirebaseProjectManager
+
 base_project_path = '/Work/repositorio/smart_nova_geracao_flutter/'
 manager = FirebaseProjectManager(base_project_path)
 answer = manager.build_answer()
