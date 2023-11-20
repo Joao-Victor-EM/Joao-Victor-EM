@@ -4,6 +4,7 @@
         <img height="180em" src="https://github-readme-stats-jvcss.vercel.app/api/top-langs/?username=Joao-Victor-EM&layout=compact&langs_count=6&theme=gotham"/>
     </a>
 </div>
+
 # João Victor Cardoso dos Santos
 *Goiânia, Goiás*
 
@@ -37,27 +38,28 @@
 
 ## SKILLS
 - Docker
-- .NET
 - NextJS
 - NodeJS
-- Python 3
+- Django Rest Framework
 - Selenium
 - Stripe
+- Postgres
+- Firebase
 
 ## AWARDS
 - Top Student at Colégio Estadual Jornalista Luiz Gonzaga Contart, 2013.
-- 2nd place at IESB Eureka Day, 2023
+- 2nd place at IESB Eureka Day, 2023.
 
 ## FLUENT LANGUAGES
 - Portuguese, English.
 
-Cover Letter
+# Cover Letter
 
 Confidently, my diverse abilities make certain contributions to amplify your squad's performance.
 
 Leveraging my proficiency in Node.js and SQL database optimization techniques, I've developed apps with exceptional performance and expansion capabilities. Through my application of DevOps methods, I've effectively optimized software production workflows resulting in flawless merging & constant release.
 
-Not only do I excel in AWS Cognito and SAML SSO but also demonstrate the ability to implement resilient and natural login protocols. For maximum benefits, my architectures strike a balance essential in safeguarding sensitive information through innovative solutions.
+Not only do I excel in Firebase Tools but also in DDD design pattern. For maximum benefits, my architectures strike a balance essential in safeguarding sensitive information through innovative solutions.
 
 Consistently delivering top-notch code, fruitfully working alongside various departments, and keeping abreast of industry advancements dovetail seamlessly into FullStack Labs' forward-thinking environment. My eagerness to impart my abilities towards advancing intriguing ventures and surpassing your group's objectives goes unmatched.
 
