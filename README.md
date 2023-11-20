@@ -1,52 +1,55 @@
 <div align="center">
     <a href="https://calendly.com/joaovictorcardoso/30min">
-        <img height="180em" src="http://github-readme-stats.vercel.app/api?username=Joao-Victor-EM&show_icons=true&theme=gotham&count_private=true&include_all_commits=true"/>
+        <img height="180em" src="https://github-readme-stats-jvcss.vercel.app/api?username=Joao-Victor-EM&show_icons=true&theme=gotham&count_private=true&include_all_commits=true"/>
         <img height="180em" src="https://github-readme-stats-jvcss.vercel.app/api/top-langs/?username=Joao-Victor-EM&layout=compact&langs_count=6&theme=gotham"/>
     </a>
 </div>
-João Victor Cardoso dos Santos
-Goiânia, Goiás
+# João Victor Cardoso dos Santos
+*Goiânia, Goiás*
 
-Phone: (62) 98503-1343
-Email: jvcs.mecatronica@gmail.com
-GitHub: github.com/jvcss
+- **Phone:** (62) 98503-1343
+- **Email:** jvcs.mecatronica@gmail.com
+- **GitHub:** [github.com/jvcss](https://github.com/jvcss)
 
-EXPERIENCE
-School Manager, Goiânia, GO — Developer
-June 2023 - Present
-Acting as a Full Stack developer, setting up Docker environments, creating dashboards, and deploying iOS and Android applications. Developing enhancements and fixes for ASP.NET systems.
+## EXPERIENCE
+**School Manager, Goiânia, GO — Developer**  
+*June 2023 - Present*
+- Full Stack developer responsible for setting up Docker environments, creating dashboards, and deploying iOS and Android applications.
+- Developing enhancements and fixes for ASP.NET systems.
 
-EDUCATION
-Mechatronics Technician, SENAI FATEC IB — Technician
-January 2013 - January 2015
-Experience with industry best practices such as the 5S methodology, implementation of techniques and technologies using the C language, Microcontrollers, and network protocols.
+## EDUCATION
+**Mechatronics Technician, SENAI FATEC IB — Technician**  
+*January 2013 - January 2015*
+- Experience with industry best practices such as the 5S methodology, implementation of techniques and technologies using the C language, Microcontrollers, and network protocols.
 
-Software Engineering, IESB — Bachelor's Degree
-January 2022 - January 2025
-Experience with agile methodologies, development of classical algorithms, understanding of computational complexity, application of design paradigms, and software architecture.
+**Software Engineering, IESB — Bachelor's Degree**  
+*January 2022 - January 2025*
+- Experience with agile methodologies, development of classical algorithms, understanding of computational complexity, application of design paradigms, and software architecture.
 
-PROJECTS
-Whatsapper — Newsletter Automation
-Application to automate the publication of promotions to company clients through WhatsApp, synchronizing contacts from Google and allowing full control of CRM focused on Digital Marketing.
+## PROJECTS
+1. **Whatsapper — Newsletter Automation**
+   - Application to automate the publication of promotions to company clients through WhatsApp.
+   - Synchronizes contacts from Google and allows full control of CRM focused on Digital Marketing.
 
-Adm Store — SaaS and E-Commerce
-A SaaS application that integrates with e-commerce, allowing a store to have precise control over inventory and product catalog. It also enables unique customization of e-commerce platforms and links each e-commerce to a different billboard.
+2. **Adm Store — SaaS and E-Commerce**
+   - SaaS application that integrates with e-commerce, allowing precise control over inventory and product catalog.
+   - Enables unique customization of e-commerce platforms and links each e-commerce to a different billboard.
 
-SKILLS
-Docker
-.NET
-NextJS
-NodeJS
-Python 3
-Selenium
-Stripe
+## SKILLS
+- Docker
+- .NET
+- NextJS
+- NodeJS
+- Python 3
+- Selenium
+- Stripe
 
-AWARDS
-Top Student at Colégio Estadual Jornalista Luiz Gonzaga Contart, 2013.
+## AWARDS
+- Top Student at Colégio Estadual Jornalista Luiz Gonzaga Contart, 2013.
+- 2nd place at IESB Eureka Day, 2023
 
-FLUENT LANGUAGES
-Portuguese, English.
-
+## FLUENT LANGUAGES
+- Portuguese, English.
 
 Cover Letter
 
